@@ -1,0 +1,8 @@
+{
+  "name": "Restaurante Manager Pro",
+  "description": "Sistema completo de gestão de restaurante para controle de pedidos, mesas, cardápio, clientes e financeiro.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
